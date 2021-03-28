@@ -560,6 +560,7 @@
 .markdown-body blockquote {
     padding: 0.5em 1em;
     border-left: .25em solid #3eaf7c;
+    background: #eee;
 }
 
 .markdown-body blockquote>:first-child {
